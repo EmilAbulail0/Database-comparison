@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\Emil Abulail\Desktop\FinalProject\|C:\Users\Emil Abulail\Desktop\Project\|C:\Users\Emil Abulail\Desktop\Application\|C:\Users\Emil Abulail\Desktop\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory>https://www.linkedin.com/in/emil-abulail-801462217/</SupportUrlHistory>
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory>https://www.linkedin.com/in/emil-abulail-801462217/</ErrorReportUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
